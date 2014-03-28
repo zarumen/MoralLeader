@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moral Leader Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="mrl">MRL</string>
+    <string name="mrl_th">ผู้นำฟื้นฟูศีลธรรมโลก</string>
+    <string name="input_mrlid_hint">กรอกเลขประจำตัวผู้นำฟื้นฟูฯ</string>
+    <string name="input_perid_hint">กรอก Password</string>
+    <string name="hello_ab_mrl">สวัสดีวัน%1$s คุณ%2$s</string>
+    
+    <string-array name="mrl_level_name">
+        <item>สมาชิก</item>
+        <item>รัตนะ ๑</item>
+        <item>รัตนะ ๒</item>
+        <item>รัตนะ ๓</item>
+    </string-array>
+    
+    <string-array name="month_th">
+        <item>มกราคม</item>
+        <item>กุมภาพันธ์</item>
+        <item>มีนาคม</item>
+        <item>เมษายน</item>
+        <item>พฤษภาคม</item>
+        <item>มิถุนายน</item>
+        <item>กรกฎาคม</item>
+        <item>สิงหาคม</item>
+        <item>กันยายน</item>
+        <item>ตุลาคม</item>
+        <item>พฤศจิกายน</item>
+        <item>ธันวาคม</item>
+    </string-array>
+    
+    <string-array name="day_th">
+        <item>อาทิตย์</item>
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+    
+    
+
+</resources>
